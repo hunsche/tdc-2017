@@ -1,0 +1,13 @@
+*.local
+*.groupproj.local
+*.identcache
+*.res
+*.stat
+*.deployproj
+client/Win32
+client/__history
+client/__recovery
+server/Win43
+server/Linux64
+server/__history
+server/__recovery
