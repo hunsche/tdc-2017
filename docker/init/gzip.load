@@ -1,1 +1,0 @@
-loadModule gzip_module /usr/lib/apache2/modules/libmod_gzip.so
